@@ -1,15 +1,16 @@
 ---
 title: テンプレート、トークン、チームワーク — Adobe Marketo Engageコンテンツを拡張可能にする方法
-description: マーケティングプログラムのコンテンツ作成は長期にわたり行われました。 テンプレートとトークンを適用すると、チームをまたいでスケーラブルなプロセスを構築し、より少ないMarketo Engageでより多くの成果を上げることができます。 受賞歴のあるマーケティングリーダーである Lauren McCormack 氏と、2 倍のAdobe Marketo Engageチャンピオンから、Marketo Engageコンテンツを拡張可能にするために彼女の長年の知恵を共有しています。 このプレゼンテーションでは、トークンとテンプレートを使用して、より効果的かつ効率的にプログラムを構築する方法 — 既存のコンテンツライブラリを最大限に活用するためのヒント — キャンペーンリクエストプロセスを合理化するベストプラクティス — 内部チームをコンテンツ戦略に合わせる
+description: マーケティングプログラムのコンテンツ作成は長期にわたり行われました。 テンプレートとトークンを適用すると、チームをまたいでスケーラブルなプロセスを構築し、より少ないMarketo Engageでより多くの成果を上げることができます。 受賞歴のあるマーケティングリーダーである Lauren McCormack 氏と、2 倍のAdobe Marketo Engageチャンピオンから、Marketo Engageコンテンツを拡張可能にするために彼女の長年の知恵を共有しています。
+solution: Marketo Engage
 role: Admin, User
 level: Intermediate, Experienced
 doc-type: Event
 last-substantial-update: 2023-03-03T00:00:00Z
 jira: KT-12415
 thumbnail: 3416250.jpeg
-source-git-commit: b434237a678e938db8d99796def77ce92902738c
+source-git-commit: 4401868e3386302a7c847197d15ad0fa83bfed0f
 workflow-type: tm+mt
-source-wordcount: '230'
+source-wordcount: '185'
 ht-degree: 0%
 
 ---
