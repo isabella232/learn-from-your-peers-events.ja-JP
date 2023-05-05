@@ -2,10 +2,10 @@
 user-guide-title: "[!DNL Experience Makers Learn from your peers]"
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: «記録の集まり [!DNL Experience Makers Learn from your peers]"
-source-git-commit: 7f16686c5832a2815e4a85fd38cf35752757586f
+source-git-commit: 112c25b593e5d3569dedc99b36237b92494d8a44
 workflow-type: tm+mt
-source-wordcount: '57'
-ht-degree: 22%
+source-wordcount: '67'
+ht-degree: 20%
 
 ---
 
@@ -29,5 +29,7 @@ ht-degree: 22%
       + 年3月{#mar2022}
          + [データを使用した効果的なストーリーの伝達](analytics/mar2022/stories-with-data.md)
 + Marketo {#marketo}
+   + 年5月{#may2023}
+      + [Marketo Engage](marketo/may2023/personalization-at-scale.md)
    + 年3月{#mar2023}
       + [の作成方法 [!DNL Adobe Marketo Engage] コンテンツの拡張性](marketo/mar2023/templates-tokens-teamwork.md)
