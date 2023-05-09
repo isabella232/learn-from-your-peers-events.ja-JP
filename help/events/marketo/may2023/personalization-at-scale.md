@@ -8,9 +8,9 @@ doc-type: Event
 last-substantial-update: 2023-05-05T00:00:00Z
 jira: KT-13214
 thumbnail: 3419133.jpeg
-source-git-commit: 112c25b593e5d3569dedc99b36237b92494d8a44
+source-git-commit: 2a3677dfebbe9a1edfce7d3c03bf921525a57bd7
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '150'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 このウェビナーでは、次の内容を学習します。
 
 * パーソナライゼーションが重要な理由
-* それぞれで使用する主なパーソナライゼーションの使用例と手法です。 Marketo Engage内で使用可能な機能とテクニックでは、次の使用方法を説明します。トークン、セグメント化、動的コンテンツおよびスニペット、Velocity スクリプティング。
+* それぞれで使用する主なパーソナライゼーションの使用例と手法です。 Marketo Engage内で利用可能な機能とテクニックでは、以下の使用方法を説明します。トークン、セグメント化、動的コンテンツおよびスニペット、Velocity スクリプティング。
 * カスタムオブジェクトのデータを使用したコンテンツのパーソナライズを含む、高度な Velocity スクリプティングの使用例です。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419133/?learn=on)
